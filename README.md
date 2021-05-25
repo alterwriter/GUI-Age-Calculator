@@ -1,2 +1,9 @@
-# GUI-Age-Calculator
-This Age Calculator will be helpful to know how old your older bro/sist under 2000.
+# GUI AGE CALCULATOR
+
+This simple GUI Program is to know about you or your mate age based on estimating when he/she was born or real age of them.
+
+simple running the program by :
+```python3 main.py```
+
+Documentation :
+
